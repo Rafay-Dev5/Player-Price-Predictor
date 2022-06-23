@@ -3,10 +3,10 @@ Its a price predictor for batsmen which utilizes various performance measures an
 
 # Performance Measures
 General Batting Performance Index </br>
-Impact Factor
-Consistent Performance
-Fast Milestone Scoring
-Heavy Hitters
+Impact Factor </br>
+Consistent Performance </br>
+Fast Milestone Scoring </br>
+Heavy Hitters </br>
 
 # Model
 Random Forest Regressor was considered to be the best model with 90% accuracy.
