@@ -2,7 +2,7 @@
 Its a price predictor for batsmen which utilizes various performance measures and their combinations to come up with a price.
 
 # Performance Measures
-General Batting Performance Index
+General Batting Performance Index </br>
 Impact Factor
 Consistent Performance
 Fast Milestone Scoring
